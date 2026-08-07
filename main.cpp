@@ -112,7 +112,7 @@ public:
 
         int unique_pixels_found = 0;
 
-        std::cout << "\n--- SCANNING GRID FOR TOM'S SPECKS ---\n";
+        std::cout << "\n--- SCANNING GRID FOR SPECKS ---\n";
 
         for (size_t y = 0; y < m_height; ++y) {
             for (size_t x = 0; x < m_width; ++x) {
